@@ -1,0 +1,19 @@
+Features To Be Added 
+->Login 
+->Registration
+->Chatbot ( For doubt)
+->Job Listing 
+->Help support 
+->Resume rating (According to profile)
+->Suggestions on resume
+-> Tracking the listing ! 
+
+
+FRONTEND 
+using react to build the frontend of the resume revu pro 
+and more of Animations and props
+
+
+BACKEND 
+
+MERN , docker and AWS(at the end of the product).
